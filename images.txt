@@ -1,5 +1,4 @@
-nginx
-openjdk:8u222-jre
-alpine-java:8
-
+redis
+minio
+mysql:5.7
 
