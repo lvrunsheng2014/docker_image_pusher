@@ -1,4 +1,2 @@
-redis
-minio
 mysql:5.7
 
