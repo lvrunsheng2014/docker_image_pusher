@@ -1,1 +1,1 @@
-mysql:8.0.27
+elasticsearch:6.8.10-linuxarm64
