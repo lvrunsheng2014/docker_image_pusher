@@ -1,1 +1,1 @@
-elasticsearch:6.8.10-linuxarm64
+redis:5.0.4-alpine
