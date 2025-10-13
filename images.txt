@@ -1,1 +1,1 @@
-mysql:8.4.4-debian
+mysql:8.4.0-oraclelinux8
