@@ -1,1 +1,1 @@
-mysql:8.4.1-rocky8
+mysql:8.4.1-oraclelinux8
