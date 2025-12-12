@@ -1,1 +1,1 @@
-gbase8s:8.8.2
+gbase8s:8.8.2-debian-x86_64
