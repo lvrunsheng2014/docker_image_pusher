@@ -1,1 +1,1 @@
-mysql:8.4.2-oraclelinux7
+gbase8s:8.8.2
